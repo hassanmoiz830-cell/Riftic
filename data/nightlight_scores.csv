@@ -1,0 +1,67 @@
+year,zone_id,zone_name,zone_type,mean_radiance,pct_change_from_2016
+2016,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,13.911,0.0
+2017,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,14.937,7.38
+2018,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,16.417,18.01
+2019,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,17.868,28.45
+2020,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,20.124,44.66
+2021,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,21.698,55.98
+2022,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,23.772,70.89
+2023,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,26.297,89.04
+2024,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,29.945,115.26
+2025,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,32.89,136.43
+2026,ffc3,FFC-III Fertilizer Plant (Mirpur Mathelo),industrial,35.393,154.42
+2016,mmathelo,Mirpur Mathelo town,village,0.702,0.0
+2017,mmathelo,Mirpur Mathelo town,village,0.695,-1.0
+2018,mmathelo,Mirpur Mathelo town,village,0.706,0.57
+2019,mmathelo,Mirpur Mathelo town,village,0.713,1.57
+2020,mmathelo,Mirpur Mathelo town,village,0.735,4.7
+2021,mmathelo,Mirpur Mathelo town,village,0.767,9.26
+2022,mmathelo,Mirpur Mathelo town,village,0.748,6.55
+2023,mmathelo,Mirpur Mathelo town,village,0.724,3.13
+2024,mmathelo,Mirpur Mathelo town,village,0.76,8.26
+2025,mmathelo,Mirpur Mathelo town,village,0.766,9.12
+2026,mmathelo,Mirpur Mathelo town,village,0.798,13.68
+2016,qadirpur,Qadirpur Gas Field (OGDCL),industrial,14.692,0.0
+2017,qadirpur,Qadirpur Gas Field (OGDCL),industrial,15.66,6.59
+2018,qadirpur,Qadirpur Gas Field (OGDCL),industrial,17.867,21.61
+2019,qadirpur,Qadirpur Gas Field (OGDCL),industrial,20.208,37.54
+2020,qadirpur,Qadirpur Gas Field (OGDCL),industrial,22.721,54.65
+2021,qadirpur,Qadirpur Gas Field (OGDCL),industrial,24.725,68.29
+2022,qadirpur,Qadirpur Gas Field (OGDCL),industrial,27.642,88.14
+2023,qadirpur,Qadirpur Gas Field (OGDCL),industrial,30.906,110.36
+2024,qadirpur,Qadirpur Gas Field (OGDCL),industrial,34.476,134.66
+2025,qadirpur,Qadirpur Gas Field (OGDCL),industrial,37.001,151.84
+2026,qadirpur,Qadirpur Gas Field (OGDCL),industrial,40.718,177.14
+2016,ghotki_town,Ghotki town (near Qadirpur field),village,0.857,0.0
+2017,ghotki_town,Ghotki town (near Qadirpur field),village,0.871,1.63
+2018,ghotki_town,Ghotki town (near Qadirpur field),village,0.888,3.62
+2019,ghotki_town,Ghotki town (near Qadirpur field),village,0.855,-0.23
+2020,ghotki_town,Ghotki town (near Qadirpur field),village,0.819,-4.43
+2021,ghotki_town,Ghotki town (near Qadirpur field),village,0.851,-0.7
+2022,ghotki_town,Ghotki town (near Qadirpur field),village,0.836,-2.45
+2023,ghotki_town,Ghotki town (near Qadirpur field),village,0.819,-4.43
+2024,ghotki_town,Ghotki town (near Qadirpur field),village,0.865,0.93
+2025,ghotki_town,Ghotki town (near Qadirpur field),village,0.868,1.28
+2026,ghotki_town,Ghotki town (near Qadirpur field),village,0.903,5.37
+2016,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,9.652,0.0
+2017,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,9.948,3.07
+2018,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,10.165,5.31
+2019,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,10.728,11.15
+2020,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,11.875,23.03
+2021,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,13.005,34.74
+2022,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,14.198,47.1
+2023,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,14.728,52.59
+2024,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,15.742,63.1
+2025,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,16.416,70.08
+2026,daharki_ind,Daharki Industrial Cluster (Mari/Engro),industrial,16.948,75.59
+2016,daharki_vil,Rural settlements outside Daharki,village,1.434,0.0
+2017,daharki_vil,Rural settlements outside Daharki,village,1.515,5.65
+2018,daharki_vil,Rural settlements outside Daharki,village,1.57,9.48
+2019,daharki_vil,Rural settlements outside Daharki,village,1.656,15.48
+2020,daharki_vil,Rural settlements outside Daharki,village,1.598,11.44
+2021,daharki_vil,Rural settlements outside Daharki,village,1.612,12.41
+2022,daharki_vil,Rural settlements outside Daharki,village,1.704,18.83
+2023,daharki_vil,Rural settlements outside Daharki,village,1.75,22.04
+2024,daharki_vil,Rural settlements outside Daharki,village,1.841,28.38
+2025,daharki_vil,Rural settlements outside Daharki,village,1.793,25.03
+2026,daharki_vil,Rural settlements outside Daharki,village,1.809,26.15

@@ -1,0 +1,9 @@
+pandas>=2.0
+pdfplumber>=0.10
+streamlit>=1.30
+plotly>=5.20
+numpy>=1.26
+
+# Optional, only needed for pulling REAL VIIRS satellite data (see README):
+# earthengine-api
+# geemap
